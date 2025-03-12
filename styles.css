@@ -37,11 +37,11 @@ h1 {
 }
 
 .logo img {
-    width: 140px;
+    width: 160px;
     height: auto;
 }
 
-/* Barra lateral de filtros */
+
 .filtros {
     width: 250px;
     background: white;
